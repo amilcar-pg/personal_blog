@@ -1,4 +1,4 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://amilcar-pg.github.io/personal_blog/
 
 # languageCode: en-us
 languageCode: pt-br
@@ -52,7 +52,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/amilcar-pg/personal_blog
   # Default branch of your Git repo
   gitBranch: source
 
@@ -171,10 +171,10 @@ params:
 
     # Show/hide newsletter section in the footer. Default is "true".
     # Currently, it supports "mailchimp".
-    newsletter:
-      enable: false
-      provider: mailchimp
-      mailchimpURL: https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e
+    # newsletter:
+    #   enable: false
+    #   provider: mailchimp
+    #   mailchimpURL: https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
