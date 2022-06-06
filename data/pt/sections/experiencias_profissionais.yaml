@@ -1,0 +1,59 @@
+# section information
+section:
+  name: Experiências
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Instituto Brasileiro de Pesquisa e Análise de Dados - ibpad
+    url: "http://ibpad.com.br/"
+    location: Brasília
+    # company overview
+    overview: O Instituto Brasileiro de Pesquisa e Análise de Dados é um centro independente de pesquisa e formação de analistas e pesquisadores nas áreas de Pesquisa e Opinião Pública, Política e Relações Governamentais e Comunicação Digital.
+  positions:
+  - designation: Analista de Pesquisa Junior.
+    start: Out 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Desenho de pesquisas em _survey_
+    - Análise de dados coletados via _survey_
+    - Modelagem de dados
+    - Análises qualitativas e quantitativas
+
+- company: 
+    name: Guangdong Enpack Packaging Co., Ltd.
+    url: "https://www.enpackcorp.com.cn/"
+    location: América Latina
+    overview: Guangdong Enpack Packaging Co., Ltd. é uma gigante do mundo das embalagens na Ásia, responsável pela venda de tampas metálicas.
+  positions:
+  - designation: Gerente de Desenvolvimento de Negócios
+    start: Fev 2020
+    end: Set 2020
+    responsibilities:
+    - Prospectar clientes na América Latina
+    - Prospectar parceiros na América Latina
+    - Representação comercial
+    - Tradução de documentos
+
+- company:
+    name: Secretaria de Relações Internacionais do Tribunal de Contas da UNião
+    url: "https://portal.tcu.gov.br/inicio/"
+    location: Brasília
+    overview: O Tribunal de Contas da União (TCU) é uma instituição brasileira prevista na Constituição Federal para exercer a fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e das entidades da administração direta e administração indireta, quanto à legalidade, à legitimidade e à economicidade e a fiscalização da aplicação das subvenções e da renúncia de receitas.
+  positions:
+  - designation: Estagiário
+    start: Jun 2018
+    end: Jun 2019
+    responsibilities:
+    - Acompanhamento das atividades do TCU com relação à Organização Latino-Americana e do Caribe de Entidades Fiscalizadoras Superiores (OLACEFS)
+    - Acompanhamento das atividades do TCU com relação à A Organização das Instituições Superiores de Controle (ISC) da Comunidade dos Países de Língua Portuguesa (CPLP)
+    - Tradução de documentos
+    - Análise qualitativa de dados para a construção de relatórios internacionais.

@@ -1,0 +1,71 @@
+# section information
+section:
+  name: Educação
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Pós-Graduação em Ciência de Dados e Machine Learning
+  icon: fa-microscope
+  timeframe: 2021-2023
+  institution:
+    name: Centro Universitário de Brasília - UniCEUB
+    url: "https://www.uniceub.br/pdp/pos-graduacao/ti/ciencia-de-dados-e-machine-learning"
+
+- name: Bacharelado em Ciências Econômicas
+  icon: fa-graduation-cap
+  timeframe: 2021-2023
+  institution:
+    name: Universidade de Brasília - UnB
+    url: "https://unb.br/"
+
+- name: Intercâmbio em International Business
+  icon: fa-university
+  timeframe: 2019 - 2020
+  institution:
+    name: Institut des Administrations des Entreprises de Montpellier
+    url: "https://iae.umontpellier.fr/fr"
+  takenCourses:
+    showGrades: false
+    collapseAfter: 3
+    courses:
+    - name: Intercultural Management
+      # achieved: 3.75 # Nota
+      # outOf: 4 # Máximo possível
+    - name: World Economy
+    - name: Export Strategy
+    - name: International Negotiation
+    - name: Theory of the Firm
+    - name: Introduction to finance and international budgeting
+    - name: European Culture
+    - name: French as a foreign Language
+  extracurricularActivities:
+  - Clarinetista da Full Fanfare
+
+- name: Bacharelado em Relações Internacionais
+  icon: fa-graduation-cap
+  timeframe: 2016 - 2020
+  institution:
+    name: Universidade de Brasília - UnB
+    url: "https://unb.br/"
+  grade:
+    scale: IRA
+    achieved: 4.6
+    outOf: 5
+  publications:
+  - title: 'Crescimento econômico e trabalho indigno: paradoxos do ODS 8 no Brasil'
+    url: "https://mundorama.net/?p=24790"
+  - title: 'Reflexos do trabalho infantil no crescimento econômico: o papel do Brasil nos desafios da agenda 2030 à luz do ODS 8'
+    url: "https://seminario2018.abri.org.br/"
+  extracurricularActivities:
+  - Coordenado de Exercícios e de Informática da Monitoria de Introdução à Economia - IEMONIT
+  - Diretor de Relações Públicas do Americas Model United Nations - 21th edition
+  - Coordenador do AMUN Kids
+  - Assessor Comercial da empresa Júnior Domani
+  - Diretor de Responsabilidade Socioambiental na SiNUS 2018
+  - Intérprete do campeonato mundial de WuShu Junior de 2018

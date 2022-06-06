@@ -1,0 +1,42 @@
+# section information
+section:
+  name: Habilidades
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: R
+  # logo: /images/sections/skills/LOGO.png
+  summary: "Capaz de realizar análises descritivas e relacionais utilizando o software estatístico R e o R studio. Experiente também na produção de relatórios automatizados."
+  # url: "https://www.r-project.org/"
+
+- name: Git
+  # logo: /images/sections/skills/git.png
+  summary: "Experiência em manejo de projetos pessoais utilizando o Git, mais especificamente em conjunto com o Github."
+  # url: "https://git-scm.com/"
+  
+- name: Excel
+  # logo: /images/sections/skills/git.png
+  summary: "Certificado em excel avançado e uso de VBA. Além de ter ministrado cursos sobre o tema para 4 grupos diferentes de pessoas."
+  # url: "https://sigmatreinamentos.com.br/"
+  
+- name: Oratória e Linguagem Corporal
+  # logo: /images/sections/skills/git.png
+  summary: "Realizei cursos e ministrei palestras sobre Oratória e Linguagem corporal, além de possuir experiência de mais de 100 aulas dadas a grupos de 200 alunos."
+  # url: "https://sigmatreinamentos.com.br/"
+  
+- name: Liderança e trabalho em equipe
+  # logo: /images/sections/skills/git.png
+  summary: "Grande experiência em coordenar e compartilhar conhecimento com colegas, tendo batido recordes de desempenho em quase todos os projetos que participei."
+  # url: ""
+  
+- name: Limesurvey
+  # logo: /images/sections/skills/git.png
+  summary: "Capacidade de gerar formulários complexos, com condições que dependem de programação e não estão disponíveis no painel automático da ferramenta."
+  # url: ""

@@ -1,0 +1,126 @@
+# More documentation here: https://github.com/nicksnyder/go-i18n
+[home]
+other = "Página inicial"
+
+[posts]
+other = "Blog"
+
+[toc_heading]
+other = "Sumário"
+
+[tags]
+other = "Tags"
+
+[categories]
+other = "Categorias"
+
+[at]
+other = "no"
+
+[resume]
+other = "Currículo Imprimível"
+
+[navigation]
+other = "Navegação"
+
+[contact_me]
+other = "Contato:"
+
+[email]
+other = "E-mail"
+
+[phone]
+other = "Celular"
+
+[newsletter_text]
+other = "Mantenha-se atualizado(a) com notificações por e-mail."
+
+[newsletter_input_placeholder]
+other = "Insira seu e-mail"
+
+[newsletter_warning]
+other = "Ao inserir seu e-mail, você concorda em receber as newslettes deste blog."
+
+[submit]
+other = "Enviar"
+
+[hugoAttributionText]
+other = "Desenvolvido por"
+
+[prev]
+other = "Anterior"
+
+[next]
+other = "Próximo."
+
+[share_on]
+other = "Compartilhar"
+
+[improve_this_page]
+other = "Melhore esta página"
+
+[out_of]
+other = "de"
+
+[publications]
+other = "Publicações"
+
+[taken_courses]
+other = "Disciplinas"
+
+[course_name]
+other = "Nome do curso"
+
+[total_credit]
+other = "Total de créditos"
+
+[obtained_credit]
+other = "Créditos obtidos"
+
+[extracurricular_activities]
+other = "Atividades extracurriculares"
+
+[show_more]
+other = "Mostrar mais"
+
+[show_less]
+other = "Mostrar menos"
+
+[responsibilities]
+other = "Responsabilidades:"
+
+[present]
+other = "Presente"
+
+[comments_javascript]
+other = "Por favor ative o JavaScript para ver"
+
+[comments_by]
+other = "Comentários por"
+
+[read]
+other = "Ler"
+
+# [project_star]
+# other = "Estrela"
+
+[project_details]
+other = "Detalhes"
+
+[err_404]
+other = "A página que está buscando ainda não está pronta."
+
+[more]
+other = "Mais"
+
+[view_certificate]
+other = "Ver certificado"
+
+[notes]
+other = "Notas"
+
+[disclaimer_text]
+other = "Aviso de responsabilidade"
+
+[search]
+other = "Pesquisar"

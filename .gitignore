@@ -1,0 +1,7 @@
+resources/*
+.Rproj.user
+/templates
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store

@@ -1,0 +1,13 @@
+# section information
+section:
+  name: Publicações recentes do Blog
+  id: publicacoes_recentes
+  enable: false
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# depois que eu fizer pelo menos 3 publicações vou ativar esta parte
+
+# no additional configuration is required

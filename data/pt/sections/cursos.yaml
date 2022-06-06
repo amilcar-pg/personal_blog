@@ -1,0 +1,36 @@
+# section information
+section:
+  name: Cursos
+  id: accomplishments
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: Visualização de Dados
+  timeline: "Abril 2022 - Maio 2022"
+  organization:
+    name: Curso-R
+    url: https://curso-r.com/
+  courseOverview: "Curso voltado à criação de visualizações de dados utilizando o software estatístico R."
+  # certificateURL: "https://example.com"
+  
+- name: Relatórios reprodutíveis com R
+  timeline: "Fevereiro 2022 - Fevereiro 2022"
+  organization:
+    name: IME - USP
+    url: https://www.ime.usp.br/verao/index.php/turmas/apresentacao.php
+  courseOverview: "Curso voltado à aprendizagem de como utilizar o software estatístico R para criar relatórios reprodutíveis e automatizados."
+  # certificateURL: "https://example.com"
+
+- name: Ciência de dados com R
+  timeline: "Fevereiro 2021 - Abril 2021"
+  organization:
+    name: IBPAD
+    url: http://ibpad.com.br/
+  courseOverview: "Curso voltado à introdução da linguagem estatística R para aqueles que nunca tiveram contato com programação."
+  # certificateURL: "https://example.com"

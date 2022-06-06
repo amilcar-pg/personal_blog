@@ -1,0 +1,103 @@
+# section information
+section:
+  name: Sobre mim
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Analista de dados
+# your company information
+company:
+  name: Instituto Brasileiro de Pesquisa e Análise de Dados - ibpad.
+  url: "http://ibpad.com.br/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume_pt.pdf"
+
+# a summary about you
+summary: 'Tendo atuado tanto em organismos privados como em governamentais nacionais e internacionais, possuo experiência com análises políticas, comerciais e de desempenho de forma geral. Atualmente desenvolvo pesquisas baseadas em dados coletados via _survey_.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "amilcarpradogramacho@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/amilcar-pg"
+
+# - name: Stackoverflow
+#   icon: "fab fa-stack-overflow"
+#   url: "#"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/amilcar-pg/"
+
+# - name: Twitter
+#   icon: "fab fa-twitter"
+#   url: "#"
+# 
+# - name: Facebook
+#   icon: "fab fa-facebook"
+#   url: "#"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+# - type: certification
+#   name: Certified Kubernetes Security Specialist
+#   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+#   badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+# 
+# - type: certification
+#   name: Istio and IBM Cloud Kubernetes Service
+#   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+#   badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+# 
+# - type: certification
+#   name: Artificial Intelligence and Machine Learning
+#   url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
+#   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+
+- type: soft-skill-indicator
+  name: Inglês - B2
+  percentage: 100
+  color: blue
+
+- type: soft-skill-indicator
+  name: Espanhol - C1
+  percentage: 100
+  color: yellow
+
+- type: soft-skill-indicator
+  name: R e R Studio
+  percentage: 75
+  color: orange
+
+- type: soft-skill-indicator
+  name: Excel
+  percentage: 85
+  color: black
+  
+- type: soft-skill-indicator
+  name: Data-studio
+  percentage: 55
+  color: black
+  
+- type: soft-skill-indicator
+  name: Limesurvey
+  percentage: 65
+  color: black
+  
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

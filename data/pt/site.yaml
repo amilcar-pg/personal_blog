@@ -1,0 +1,29 @@
+# Copyright Notice
+copyright: © 2020 Copyright.
+
+# A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
+disclaimer: "Este tema foi construído sob a licença MIT. Logo, pode ser usado com fins comerciaais, não comerciais, e de acesso privado.
+É permitida a modificação ou a distribuição do tema sem a solicitação expressa ao autor do tema.
+Entretanto, o autor do tema não provê nenhum tipo de garantia nem assegura nenhum tipo de problema que possa ocorrer."
+
+# Meta description for your site.  This will help the search engines to find your site.
+description: Portfólio e blog pessoal do Amilcar
+
+# specify the list of custom menus that you want to show in the top navbar.
+# they will be separated by a divider from the main menus.
+# customMenus:
+# - name: Docs
+#   url: https://toha-guides.netlify.app/posts/
+#   # specify whether to hide the menu item from top navbar or not.
+#   hideFromNavbar: false
+#   # specify whether to show the menu item in footer or not.
+#   # if you set it to true, make sure you have set `footer.navigation.customMenus: true` in your config.yaml
+#   showOnFooter: false
+
+# Specify OpenGraph Headers
+openGraph:
+  title: amilcarpg
+  type: website
+  description: Portfólio e blog pessoal do Amilcar
+  image: images/author/john.png
+  url: https://hugo-toha.github.io

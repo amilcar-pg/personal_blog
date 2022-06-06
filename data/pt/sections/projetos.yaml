@@ -1,0 +1,45 @@
+# section information
+section:
+  name: Projetos
+  id: projects
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: Todos
+  filter: "Todos"
+- name: Profissional
+  filter: "Profissional"
+# - name: Acadêmico
+#   filter: "Acadêmico"
+- name: Hobby
+  filter: "Hobby"
+
+# your projects
+projects:
+# - name: Kubernetes
+#   logo: /images/sections/projects/kubernetes.png
+#   role: Contributor
+#   timeline: "March 2018 - Present"
+#   repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+#   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+#   summary: Production-Grade Container Scheduling and Management.
+#   tags: ["professional", "kubernetes", "cloud"]
+
+- name: Template de análise de redes
+  role: Pojeto Individual
+  timeline: "Fevereiro 2022 - Fevereiro 2022"
+  repo: https://github.com/amilcar-pg/analise_de_redes
+  summary: Projeto de conclusão do curso de Relatórios Reprodutíveis em R, do curso de verão do IME-USP. Busquei criar um arquivo em RMarkdown para me guiar em futuras análises de rede.
+  tags: ["Todos", "Profissional"]
+
+- name: Dia a dia dos meus amigos
+  role: Pojeto Individual
+  timeline: "Maio 2022 - Junho 2022"
+  repo: https://github.com/amilcar-pg/dia_a_dia_amigos
+  summary: Projeto de conclusão do curso de Visualização de Dados da Urso-R. Busquei a melhor visualização para descrever o dia-a-dia de um amigo típico meu.
+  tags: ["Todos", "Hobby"]
